@@ -94,8 +94,9 @@ body {
   padding-left: 6rem;
 }
 .home-img img {
-  width: 35vw;
+  width: 45vw;
   height: 80dvh;
+  padding-right: 30px;
 }
 .home-p1 {
   color: var(--main-color);
@@ -217,7 +218,7 @@ body {
   padding-left: 6rem;
 }
 .about-img img {
-  width: 35vw;
+  width: 45vw;
   height: 80dvh;
 }
 .about-p1 {
